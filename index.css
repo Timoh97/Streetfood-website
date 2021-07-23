@@ -2,3 +2,5 @@
 #hot-deals{ background-color: #C9ECB5;}
 footer{background-color: #C9ECB5;}
 header{border: 2px;}
+p,h1{display: flex;
+flex-direction: row;}
