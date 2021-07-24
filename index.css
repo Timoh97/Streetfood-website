@@ -1,7 +1,29 @@
 
-header{background-color: rgb(226, 224, 224);}
-footer{background-color: rgb(231, 229, 229);}
-nav{display: flex;
-flex-direction: row;
-justify-content: space-evenly;
+header {
+    background-color: rgb(226, 224, 224);
 }
+
+footer {
+    background-color: rgb(231, 229, 229);
+    padding: 5rem;
+}
+nav>ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav>ul>li {
+    float: left;
+    
+}
+
+nav>ul>li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
