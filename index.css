@@ -64,3 +64,8 @@ font-size: 3em;
     position: relative;
     left: 50px;
 }
+section{
+    background-color: rgb(188, 226, 188);
+    border-collapse: collapse;
+}
+#menu{background-color: rgb(226, 224,224);}
