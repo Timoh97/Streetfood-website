@@ -4,9 +4,8 @@ footer{background-color: #C9ECB5;}
 header{border: 2px;}
 div{display: flex;
 flex-direction: row;
-justify-content: space-around;
-background-color: #649549;}
-main{background-color: #649549;
+justify-content: space-around;}
+main{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
