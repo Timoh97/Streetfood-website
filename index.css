@@ -4,13 +4,14 @@ footer{background-color: #C9ECB5;}
 header{border: 2px;}
 div{display: flex;
 flex-direction: row;
-justify-content: space-around;}
+justify-content: space-around;
+background-color: green;}
 main{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    padding: 2cm 0cm;
-    
+    padding: 1.5cm 0cm;
+    background-color: green; 
 }
 #itemid{font-size: larger;
 display: flex;
