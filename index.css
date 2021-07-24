@@ -2,10 +2,12 @@
 #hot-deals{ background-color: #C9ECB5;}
 footer{background-color: #C9ECB5;}
 
-div{display: flex;
+div{
+display: flex;
 flex-direction: row;
 justify-content: space-around;
-background-color: green;}
+background-color: green;
+}
 main{
     display: flex;
     flex-direction: row;
