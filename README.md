@@ -1,13 +1,14 @@
-# AUTHOR
-Timothy Mugendi
+
 # PROJECT NAME
 Street food website
-# DESCRIPTION
+## AUTHOR
+Timothy Mugendi
+## DESCRIPTION
 Shows type of food sold in our streetfood restaurant.
-# CONTACTS
+## CONTACTS
 0791417147
 Email: timohmugendi@gmail.com
-# licence
+## licence
 MIT License
 
 Copyright (c) [2021] [Timothy Mugendi]
